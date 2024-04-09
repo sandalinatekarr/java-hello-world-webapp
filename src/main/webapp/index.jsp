@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World ?</h2>
+<h6>WELCOME TO TOMCAT MAVEN APPLICATION</h6>
 </body>
 </html>
